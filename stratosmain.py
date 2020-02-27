@@ -20,7 +20,7 @@ rho = lambda s: 1.4213*math.exp(-(10**(-4))*s) # kg/m^3 # air density as a funct
 
 # Constants
 gc = 9.81 # m/s^2
-mass = 70 # kg
+mass = 104.78 # kg
 y0 = 38969.4 # m # initial altitude
 vel0 = 0 # m/s # initial velocity
 Cd = 0.7 # drag coefficient of felix (assuming he's falling head first)
